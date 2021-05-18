@@ -1,0 +1,1 @@
+In this project I'm going to build a google-homepage only front-end part.
